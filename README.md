@@ -3,4 +3,4 @@ Html Games with each game being one file each for my Google site at school
 <br>
 None made by me
 <br>
-Dino game from Alexelzx Account link https://github.com/alexelzx
+Dino game from <a href="https://github.com/alexelzx">Alexelzx</a>
